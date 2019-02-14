@@ -6,3 +6,7 @@ I am Shy, Mean, Unhappy
 My Favorite hobby would be sleeping
 
 My favorite animal is a cat
+
+
+------------------------------------------
+"amend your commit" Challange
